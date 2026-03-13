@@ -20,6 +20,6 @@ It also integrates **LangSmith** for full-stack LLM observability, allowing you 
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
-cd your-repo-name# Gen_AI
+git clone [https://github.com/JeetDPatel11/Gen_AI.git](https://github.com/JeetDPatel11/Gen_AI.git)
+cd Gen_AI# Gen_AI
 A conversational AI web application built with Streamlit, LangChain, and local Ollama models. It features a customizable chat interface and integrates LangSmith for advanced LLM tracing, debugging, and observability.
