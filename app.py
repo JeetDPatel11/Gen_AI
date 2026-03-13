@@ -24,7 +24,7 @@ prompt = ChatPromptTemplate.from_messages(
 
 
 # streamlit framework
-st.title("JDPA11")
+st.title("JeetDPA")
 input_text = st.text_input("What question you have in mind?")
 
 # Ollama gemma3 model
